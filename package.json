@@ -1,0 +1,11 @@
+{
+  "name": "NewProject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alexandre Lima",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "moment": "^2.29.1"
+  }
+}
